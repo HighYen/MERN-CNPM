@@ -58,7 +58,9 @@ The College Management System is a MERN Stack-based system with three different 
   - I have provided .env.sample in both frontend and backend using that create .env file
 
 4. **Run the admin seeder:**
-
+   ```bash
+add folder media in backend
+```
    ```bash
    cd backend
    npm run seed
@@ -69,14 +71,14 @@ The College Management System is a MERN Stack-based system with three different 
   
    - Using this login to the admin account and from admin you can add new faculty, student and admins!
 
-5. **Run the backend server:**
+6. **Run the backend server:**
 
    ```bash
    cd backend
    npm start
    ```
 
-6. **Run the frontend server:**
+7. **Run the frontend server:**
 
    ```bash
    cd ../frontend
